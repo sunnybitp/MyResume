@@ -1,0 +1,47 @@
+*
+{
+	margin:0px;
+	
+}
+
+
+
+.backimg
+{
+	background-image:url("img3.jpg");
+	width:100vw;
+	height:100vh;
+	background-size:cover;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+	color:white;
+}
+
+
+
+
+.educationbox
+{
+	width:400px;
+	height:550px;
+	background-color:rgba(0,0,0,0.5);
+	border-radius:20px;
+}
+
+img
+{
+	width:100px;
+	height:100px;
+	border-radius:80px;
+	position:relative;
+	top:-50px;
+}
+
+.educationtext 
+{
+	font-size:20px;
+	font-family:sans-serif;
+
+}

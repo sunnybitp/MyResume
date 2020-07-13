@@ -1,0 +1,83 @@
+*
+{
+	margin:0px;
+	
+}
+
+
+
+.backimg
+{
+	background-image:url("img4.jpg");
+	width:100vw;
+	height:100vh;
+	background-size:cover;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+	color:white;
+}
+
+
+
+
+.experiencebox
+{
+	width:400px;
+	height:500px;
+	background-color:rgba(0,0,0,0.3);
+	border-radius:20px;
+}
+
+img
+{
+	width:100px;
+	height:100px;
+	border-radius:80px;
+	position:relative;
+	top:-50px;
+}
+
+.experiencetext 
+{
+	font-size:20px;
+	font-family:sans-serif;
+
+}
+
+
+.experiencetext h3
+{
+	text-decoration:underline;
+}
+
+a
+{
+	text-decoration:none;
+	color:white;
+}
+
+
+.certificate
+{
+	font-family:"proxima nova";
+	font-weight:100;
+	font-size:20px;
+	text-align:center;
+	border:2px solid #31A6FF;
+	border-radius:30px;
+	padding:10px 50px;
+	-webkit-transition-duration:200ms;
+	transition-duration:200ms
+	
+}
+	
+.certificate:hover
+{
+	background-color:#31A6FF;
+	color:#fff;
+}
+	
+
+
